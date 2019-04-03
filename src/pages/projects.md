@@ -11,5 +11,7 @@ elements:
   - dark: true
     paragraph: '## Scratch'
     type: text
+  - prebuilt: scratch
+    type: prebuilt
 ---
 
