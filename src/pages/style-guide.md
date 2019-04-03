@@ -44,5 +44,12 @@ elements:
       picture-in-picture" allowfullscreen></iframe><p>Custom HTML is perfect for
       embedding iframes</p>
     type: customhtml
+  - herodescription: Find out what we've been up to
+    heroimage: /img/abstract-astronomy-dark-924824.jpg
+    herolink: /news
+    herotitle: Latest News
+    overlay: true
+    top: false
+    type: hero
 ---
 
