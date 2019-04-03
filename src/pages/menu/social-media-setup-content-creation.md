@@ -1,7 +1,7 @@
 ---
 templateKey: menu
-title: Social media setup & content creation
-menupath: /social-media-setup-and-content-creation
+title: Club dates
+menupath: /club-dates
 menuorder: 3
 ---
 
