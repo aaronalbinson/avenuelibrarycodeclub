@@ -206,6 +206,8 @@ export const pageQuery = graphql`
 
           prebuilt
 
+          customhtml
+
           leftimage {
             childImageSharp {
               fluid(maxWidth: 1000, quality: 70) {

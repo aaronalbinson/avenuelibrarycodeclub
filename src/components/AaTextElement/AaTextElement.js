@@ -20,7 +20,7 @@ class AaTextElement extends React.Component {
           <div
             className="container content"
             dangerouslySetInnerHTML={{
-              __html: converter.makeHtml(this.props.html)
+              __html: converter.makeHtml(this.props.html.replace(/\\/g, "  "))
             }}
           />
         </div>
