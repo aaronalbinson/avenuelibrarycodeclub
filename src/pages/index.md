@@ -11,8 +11,8 @@ elements:
   - dark: true
     paragraph: >-
       Welcome to our code club website. Avenue library code club is a free club
-      for children ages 9 - 13 to work on projects with code. Our club run by
-      volunteers in the local area is part of the a [network of code
+      for children ages 9 - 13 to work on projects with code. Our club, which is
+      run by volunteers in the local area, is part of the a [network of code
       clubs](https://codeclub.org/en/) in the UK.
 
 
