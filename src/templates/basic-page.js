@@ -12,7 +12,7 @@ import AaBlockquote from "../components/AaBlockquote/AaBlockquote";
 import AaCustomHTML from "../components/AaCustomHTML/AaCustomHTML";
 import TwoUpImages from "../components/TwoUpImages/TwoUpImages";
 import Services from "../components/Services/Services";
-import Contact from "../components/Contact/Contact";
+import Scratch from "../components/Scratch/Scratch";
 import Newsletter from "../components/AaNewsletter/AaNewsletter";
 
 export const BasicPageTemplate = ({
@@ -110,9 +110,9 @@ export const BasicPageTemplate = ({
                       <Services />
                     </div>
                   ))) ||
-                  (element.prebuilt === "contact" && (
+                  (element.prebuilt === "scratch" && (
                     <div>
-                      <Contact />
+                      <Scratch />
                     </div>
                   )))}
             </div>

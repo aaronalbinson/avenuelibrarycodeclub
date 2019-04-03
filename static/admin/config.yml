@@ -80,6 +80,7 @@ collections:
                   - { label: "Services", value: "services" }
                   - { label: "Newsletter", value: "newsletter" }
                   - { label: "Contact Form", value: "contact" }
+                  - { label: "Scratch Form", value: "scratch" }
           - label: "Two Up Images"
             name: "twoupimages"
             widget: "object"
