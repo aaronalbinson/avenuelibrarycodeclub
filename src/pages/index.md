@@ -18,19 +18,7 @@ elements:
 
       [Find out more about this club >](/about)
     type: text
-  - paragraph: >-
-      ## Join us
-
-
-      We welcome new members ages 9 - 13. We currently have 2 volunteers that
-      help guide the children to complete the challenges. 
-
-
-      If you would like your child to participate please contact Avenue Library
-      to find out when the next session is or drop by during our next session.
-      Our next dates can be found on our [join page](/join-the-club).
-    type: text
-  - dark: true
+  - dark: false
     paragraph: >-
       ## Join us
 
@@ -42,6 +30,18 @@ elements:
       If you would like your child to participate please contact Avenue Library
       to find out when the next session is or drop by during our next session.
       Our next dates can be found on our [club dates page](/club-dates).
+    type: text
+  - dark: true
+    paragraph: >-
+      ## Our Projects
+
+
+      We love sharing some of the projects we've been working on and you can
+      even have a go at your club with our tutorials. Each one of our projects
+      has a badge at the end that the children collect.
+
+
+      [Our projects >](/our-projects)
     type: text
 ---
 
