@@ -2,32 +2,45 @@
 templateKey: basic-page
 title: About
 elements:
-  - heroimage: /img/tapet_2019-02-12_11-05-41_305_2160x1920.png
-    herotitle: About Environ
+  - heroimage: /img/pexels-photo-57007.jpeg
+    herotitle: About the club
     overlay: true
     top: true
     type: hero
   - dark: true
     paragraph: >-
-      Environ Digital is a small website development company designed to help
-      you with your every day needs online. We want to help you reach your
-      potential with what is possible on the internet, both reaching out to your
-      customers but also your internal online tasks and goals.
+      Every 2 weeks we get together at Avenue Library in Moston to make some
+      awesome things with code. 
 
 
-      [Our personal approach](/our-personal-approach) means that we can directly
-      provide you with the best possible solutions to any of your problems, and
-      we are always available to get you through each one of them.
+      * Scratch
+
+      * Raspberry Pi
+
+      * Microbit
+
+      * Python
+
+      * HTML/CSS (websites)
+    type: text
+  - paragraph: >-
+      ## Our Projects
 
 
-      We have created simple solutions that require minimum training and
-      expertise, but even if you do struggle, our developers are more than happy
-      to help you out.
+      We love sharing some of the projects we've been working on and you can
+      even have a go at your club with out tutorials. Each one of our projects
+      has a badge at the end that the children collect.
+    type: text
+  - dark: true
+    paragraph: >-
+      ## Join in
 
 
-      We'd love to work with you, so if you've got a project in mind or just
-      need some help online and need some advice, get in touch now and we'll get
-      started.
+      We welcome new members ages 9-13. We currently have 2 volunteers that help
+      guide the children to complete the challenges. If you would like your
+      child to participate please contact Avenue Library to find out when the
+      next session is or drop by during our next session. Our next dates can be
+      found on our [join page](/join-the-club).
     type: text
 ---
 
