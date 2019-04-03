@@ -38,7 +38,7 @@ elements:
 
       If you would like your child to participate please contact Avenue Library
       to find out when the next session is or drop by during our next session.
-      Our next dates can be found on our [join page](/join-the-club).
+      Our next dates can be found on our [club dates page](/club-dates).
     type: text
   - dark: true
     paragraph: >-
