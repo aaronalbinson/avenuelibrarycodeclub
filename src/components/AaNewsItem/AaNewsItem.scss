@@ -12,7 +12,7 @@
 .AaNewsItem h3 {
   display: inline;
   color: #ffffff;
-  font-family: Muli;
+  font-size: 36px;
 
   @media only screen and (max-width: 600px) {
     display: block;
@@ -38,8 +38,10 @@
   padding: 0 10px;
 }
 
-.AaNewsItemHeader small {
-  font-family: Muli;
+.AaNewsItem a {
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .AaNewsItem .content {
@@ -50,7 +52,6 @@
 }
 
 .AaNewsItem .content p {
-  font-family: "Vollkorn", serif;
   font-size: 26px;
 }
 
@@ -167,7 +168,6 @@ hr {
   width: 170px;
   margin: 0 auto;
   color: $txt-color;
-  font-family: 'Vollkorn', serif;
   font-size: 13px;
   font-style: italic;
   line-height: 18px;
@@ -179,7 +179,6 @@ hr {
   margin: 0 auto;
   padding: 50px 50px 100px 50px;
   color: $txt-color;
-  font-family: 'Vollkorn', serif;
   font-size: 22px;
   line-height: 24px;
   z-index: 20;
@@ -222,7 +221,7 @@ hr {
       text-transform: uppercase;
       font-weight: 700;
       padding: 5px 15px;
-      background-color: #3e4f5a;
+      background-color: $primary-color;
       background-image: none;
       border-width: 0;
     }

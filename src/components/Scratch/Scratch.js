@@ -18,6 +18,13 @@ class Scratch extends React.Component {
                 excerpt="Inspired by froggo and crossy roads"
                 moreText="Make →"
               />
+              <AaNewsItem
+                slug="/wack-a-mole"
+                title="Wack a mole"
+                image=""
+                excerpt="Catch the objects before the time runs out"
+                moreText="Make →"
+              />
             </div>
           </div>
         </div>

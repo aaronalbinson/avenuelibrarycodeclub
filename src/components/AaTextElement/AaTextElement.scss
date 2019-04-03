@@ -1,3 +1,5 @@
+@import "../all.sass";
+
 .TextElement {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -9,6 +11,9 @@
         }
         p {
             font-size: 1.2em;
+            a {
+                color: $primary-color;
+            }
         }
     }
     &.dark {

@@ -41,8 +41,6 @@ class AaNewsItem extends React.Component {
             <div class="blog-card-container">
               <div class="title-content">
                 <h3>{this.props.title}</h3>
-                <hr />
-                <div class="intro">...</div>
               </div>
               <div class="card-info">
                 <div>{this.props.excerpt}</div>
