@@ -8,5 +8,8 @@ elements:
     overlay: true
     top: true
     type: hero
+  - dark: true
+    paragraph: '## Scratch'
+    type: text
 ---
 
