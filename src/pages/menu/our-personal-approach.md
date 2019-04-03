@@ -1,7 +1,7 @@
 ---
 templateKey: menu
-title: Our personal approach
-menupath: /our-personal-approach
+title: Projects
+menupath: /projects
 menuorder: 5
 ---
 
