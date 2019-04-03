@@ -1,10 +1,10 @@
 ---
 templateKey: settings
-title: Environ Digital
-companyaddress: © Environ Digital 2020
+title: Avenue Library Code Club
+companyaddress: © Environ Digital
 sociallinks:
-  facebook: 'https://www.facebook.com/environdigital'
-  instagram: 'https://www.instagram.com/environdigital'
-  twitter: 'https://twitter.com/environ_digital'
+  facebook: 'https://www.facebook.com/avelibcc'
+  instagram: 'https://www.instagram.com/avelibcc'
+  twitter: 'https://twitter.com/avelibcc'
 ---
 
