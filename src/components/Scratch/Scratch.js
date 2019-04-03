@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../AaNewsItem/AaNewsItem";
+import AaNewsItem from "../AaNewsItem/AaNewsItem";
 import AniLink from "gatsby-plugin-transition-link/AniLink";
 
 require("./Scratch.scss");
