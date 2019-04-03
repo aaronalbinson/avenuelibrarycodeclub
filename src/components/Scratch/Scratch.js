@@ -4,7 +4,7 @@ import AniLink from "gatsby-plugin-transition-link/AniLink";
 
 require("./Scratch.scss");
 
-class Services extends React.Component {
+class Scratch extends React.Component {
   render() {
     return (
       <React.Fragment>
