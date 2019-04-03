@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Avenue Library Code Club
 elements:
   - herodescription: A coding club for kids aged 9-13
-    heroimage: /img/screen-shot-2019-02-24-at-00.01.16.png
+    heroimage: /img/tapet_2019-02-22_03-09-39_922_2160x1920-1-.png
     herotitle: Avenue Library Code Club
     top: true
     type: hero
