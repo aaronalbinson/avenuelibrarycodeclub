@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Environ Digital"
+    title: "Avenue Libary Code Club"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -76,14 +76,14 @@ module.exports = {
         logo: "./src/img/logo.svg",
 
         // WebApp Manifest Configuration
-        appName: "Environ Digital", // Inferred with your package.json
+        appName: "Avenue Libary Code Club", // Inferred with your package.json
         appDescription: null,
         developerName: null,
         developerURL: null,
         dir: "auto",
         lang: "en-US",
-        background: "#1D516E",
-        theme_color: "#1D516E",
+        background: "#333333",
+        theme_color: "#e48c35",
         display: "standalone",
         orientation: "any",
         start_url: "/",

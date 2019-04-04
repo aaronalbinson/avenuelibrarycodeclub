@@ -43,7 +43,7 @@ const TemplateWrapper = ({ children }) => (
             <Navbar />
             <div id="page-wrap">
               <div className="top">
-                <AniLink cover bg="#359dd9" to="/">
+                <AniLink cover bg="#e48c35" to="/">
                   <img
                     className="logo"
                     src={logo}
