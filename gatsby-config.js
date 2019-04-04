@@ -73,7 +73,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
-        logo: "./src/img/logo.svg",
+        logo: "./src/img/favicon.png",
 
         // WebApp Manifest Configuration
         appName: "Avenue Libary Code Club", // Inferred with your package.json
