@@ -8,6 +8,9 @@ elements:
     overlay: true
     top: true
     type: hero
+  - dark: false
+    paragraph: Here are some ideas for projects that you can follow in your code club.
+    type: text
   - dark: true
     paragraph: '## Scratch'
     type: text
