@@ -33,10 +33,9 @@ elements:
   - dark: true
     paragraph: '## Step 2: Moving objects'
     type: text
-  - paragraph: |-
-      Challenge
-
-      Can you add some more moving objects to make your game more difficult?
+  - paragraph: ''
     type: text
+  - quotetitle: Can you add some more moving objects to make your game more difficult?
+    type: quote
 ---
 
