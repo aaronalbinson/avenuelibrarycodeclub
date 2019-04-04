@@ -47,7 +47,7 @@ const TemplateWrapper = ({ children }) => (
                   <img
                     className="logo"
                     src={logo}
-                    alt="Environ Digital"
+                    alt="Avenue Library Code Club"
                     style={{ width: "300px" }}
                   />
                 </AniLink>
