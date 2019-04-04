@@ -14,7 +14,7 @@ class Scratch extends React.Component {
               <AaNewsItem
                 slug="/cross-the-road"
                 title="Cross the road"
-                image=""
+                image="/img/road.jpg"
                 excerpt="Inspired by froggo and crossy roads"
                 moreText="Make →"
               />
