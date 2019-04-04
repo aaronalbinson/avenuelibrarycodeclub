@@ -2,7 +2,9 @@
 templateKey: basic-page
 title: Avenue Library Code Club
 elements:
-  - herodescription: A north Manchester coding club for kids aged 9-13
+  - herodescription: >-
+      A code club in north Manchester kids aged 9-13 at Avenue Library and
+      Learning Centre
     heroimage: /img/tapet_2019-02-22_03-09-39_922_2160x1920-1-.png
     herotitle: Avenue Library Code Club
     overlay: true
@@ -11,8 +13,8 @@ elements:
   - dark: true
     paragraph: >-
       Welcome to our code club website. Avenue library code club is a free club
-      for children ages 9 - 13 to work on projects with code. Our club, which is
-      run by volunteers in the local area, is part of the a [network of code
+      for children ages 9 - 13. Our club, which is run by volunteers from the
+      local area, is part of the a [network of code
       clubs](https://codeclub.org/en/) in the UK.
 
 
@@ -30,6 +32,10 @@ elements:
       If you would like your child to participate please contact Avenue Library
       to find out when the next session is or drop by during our next session.
       Our next dates can be found on our [club dates page](/club-dates).
+
+
+      If you would like to volunteer for the club, please sign up as a volunteer
+      through the [code club website](http://codeclub.org.uk).
     type: text
   - dark: true
     paragraph: >-
