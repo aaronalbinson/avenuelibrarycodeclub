@@ -56,7 +56,7 @@ elements:
       has a badge at the end that the children collect.
 
 
-      [Our projects >](/our-projects)
+      [Our projects >](/projects)
     type: text
 ---
 
