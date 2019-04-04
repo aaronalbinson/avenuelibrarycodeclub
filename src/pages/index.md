@@ -3,7 +3,7 @@ templateKey: basic-page
 title: Avenue Library Code Club
 elements:
   - herodescription: >-
-      A code club in north Manchester kids aged 9-13 at Avenue Library and
+      A code club in north Manchester for kids aged 9-13 at Avenue Library and
       Learning Centre
     heroimage: /img/tapet_2019-02-22_03-09-39_922_2160x1920-1-.png
     herotitle: Avenue Library Code Club
