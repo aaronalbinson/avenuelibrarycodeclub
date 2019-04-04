@@ -35,7 +35,7 @@ elements:
 
 
       If you would like to volunteer for the club, please sign up as a volunteer
-      through the [code club website](http://codeclub.org.uk).
+      through the [code club website](http://codeclub.org).
     type: text
   - dark: true
     paragraph: >-
