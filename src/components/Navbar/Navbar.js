@@ -64,13 +64,13 @@ class Navbar extends React.Component {
             render={data => (
               <ul>
                 <li>
-                  <AniLink cover bg="#359dd9" to="/">
+                  <AniLink cover bg="#e48c35" to="/">
                     Home
                   </AniLink>
                 </li>
                 {data.allMarkdownRemark.edges.map(({ node }) => (
                   <li key={node.id}>
-                    <AniLink cover bg="#359dd9" to={node.frontmatter.menupath}>
+                    <AniLink cover bg="#e48c35" to={node.frontmatter.menupath}>
                       {node.frontmatter.title}
                     </AniLink>
                   </li>
