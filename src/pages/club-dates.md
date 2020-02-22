@@ -11,16 +11,13 @@ elements:
       are:
 
 
-      Saturday 28th September 10am - 12pm
+      Saturday 22nd February 10am - 12pm
 
 
-      Saturday 12th October 2pm - 4pm (note the different time here
+      Saturday 7th March 10am - 12pm
 
 
-      Saturday 26th October 10am - 12pm
-
-
-      Saturday 9th November 10am - 12pm
+      Saturday 21st March 10am - 12pm
     type: text
   - paragraph: |-
       ## Find the club
