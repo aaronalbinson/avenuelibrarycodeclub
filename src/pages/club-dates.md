@@ -18,6 +18,12 @@ elements:
 
 
       Saturday 21st March 10am - 12pm
+
+
+      Saturday 4th April 10am-12pm
+
+
+      Saturday 18th April 10am-12pm
     type: text
   - paragraph: >-
       ## Find the club
