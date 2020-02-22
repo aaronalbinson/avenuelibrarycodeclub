@@ -1,6 +1,6 @@
 ---
 templateKey: basic-page
-title: Club dates
+title: Club dates and how to find us
 elements:
   - dark: true
     paragraph: >-
