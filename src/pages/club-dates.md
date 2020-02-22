@@ -19,13 +19,21 @@ elements:
 
       Saturday 21st March 10am - 12pm
     type: text
-  - paragraph: |-
+  - paragraph: >-
       ## Find the club
 
+
       The Avenue Library and Learning Centre\
+
       9 Victoria Ave East\
+
       Manchester \
+
       M9 6HW
+
+
+      The library does not offer any parking so we advise to park in the Tesco
+      car park next to the library.
     type: text
   - customhtml: >-
       <iframe
