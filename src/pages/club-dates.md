@@ -11,13 +11,16 @@ elements:
       are:
 
 
-      Saturday 16th October 10am - 12pm
+      Saturday 19th March 10am - 12pm
 
 
-      Saturday 30th October 10am - 12pm
+      Saturday 2nd April 10am - 12pm
 
 
-      Saturday 13th November 10am - 12pm
+      Saturday 16th April 10am - 12pm
+
+
+      Saturday 30th April 10am - 12pm
     type: text
   - paragraph: >-
       ## Find the club
