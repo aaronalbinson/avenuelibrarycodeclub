@@ -11,16 +11,14 @@ elements:
       are:
 
 
-      Saturday 19th March 10am - 12pm
+      Saturday 23th July 10am - 12pm
 
 
-      Saturday 2nd April 10am - 12pm
+      Code Club will be closed over the Summer Holidays
 
 
-      Saturday 16th April 10am - 12pm
+      Saturday 10th September 10am - 12pm
 
-
-      Saturday 30th April 10am - 12pm
     type: text
   - paragraph: >-
       ## Find the club
